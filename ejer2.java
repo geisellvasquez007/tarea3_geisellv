@@ -6,7 +6,7 @@ package tarea3;
 
 /**
  *
- * @author perez
+ * @author geisell
  */
 public class ejer2 extends javax.swing.JFrame {
     
